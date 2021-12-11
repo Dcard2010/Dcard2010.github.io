@@ -1,0 +1,98 @@
+body {
+  background-image: url("assets/home/background-home-desktop.jpg");
+  margin: 0;
+}
+
+.topMenu {
+  color: #FFFFFF;
+  height: 65px;
+  margin-top: 17px;
+}
+
+.topMenu img {
+  float: left;
+  height: 38px;
+  margin-top: 14px;
+  margin-left: 50px;
+}
+
+.topMenu hr {
+  width: 95%;
+  margin: 0;
+  border-bottom: none;
+  top: 33px;
+  right: 625px;
+  position: relative;
+}
+
+.menuLinks {
+  display: inline-block;
+  -webkit-backdrop-filter: blur(50px);
+  float: right;
+}
+
+.menuLinks p {
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 20px;
+  padding-right: 30px;
+  letter-spacing: 2.7px;
+}
+
+#homeLink {
+  padding-left: 100px;
+}
+
+.bodyText {
+  width: 460px;
+  margin-top: 250px;
+  margin-left: 180px;
+}
+
+.bodyText h1 {
+  color: #FFFFFF;
+  font-size: 150px;
+  margin: 13px 0 0 0;
+  font-family: 'Bellefair', serif;
+}
+
+.bodyText h5 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 28px;
+  color: #D0D6F9;
+  letter-spacing: 4.75px;
+  margin: 0 0 0 13px;
+}
+
+.bodyText p {
+  color: #D0D6F9;
+  font-size: 14px;
+  margin: 0 0 0 13px;
+  line-height: 2;
+}
+
+
+.myButton {
+	background-color:#ffffff;
+	border-radius:100%;
+	display:inline-block;
+	cursor:pointer;
+	color:#0B0D17;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 43px;
+  letter-spacing: 2.75px;
+	padding:150px 102px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  float: right;
+  position: absolute;
+  top: 320px;
+  left: 950px;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
