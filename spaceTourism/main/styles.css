@@ -79,7 +79,7 @@ body {
 	cursor:pointer;
 	color:#0B0D17;
 	font-family: 'Barlow Condensed', sans-serif;
-	font-size: 43px;
+	font-size:32px;
   letter-spacing: 2.75px;
 	padding:150px 102px;
 	text-decoration:none;
@@ -90,7 +90,7 @@ body {
   left: 950px;
 }
 .myButton:hover {
-	background-color:#5cbf2a;
+	background-color: #e5e5e5;
 }
 .myButton:active {
 	position:relative;
